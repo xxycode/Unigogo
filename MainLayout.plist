@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>icon</key>
+	<array>
+		<string>lesson_main.png</string>
+		<string>library_main.png</string>
+		<string>score_main.png</string>
+		<string>community_main.png</string>
+		<string>newstd_main.png</string>
+		<string>lost&amp;found_main.png</string>
+		<string>more_main.png</string>
+	</array>
+	<key>title</key>
+	<array>
+		<string>课表查询</string>
+		<string>移动图书馆</string>
+		<string>成绩查询</string>
+		<string>GO社区</string>
+		<string>新生频道</string>
+		<string>失物招领</string>
+		<string>更多精彩</string>
+	</array>
+</dict>
+</plist>
